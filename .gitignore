@@ -1,0 +1,11 @@
+# Dados reais e potencialmente sensíveis
+/data/raw/**
+/outputs/**
+
+# Ambiente e arquivos locais
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
