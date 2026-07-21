@@ -1,0 +1,1 @@
+""Transforma tudo em Markdown.""
